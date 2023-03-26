@@ -2,7 +2,7 @@
   "name": "group2-surveysite",
   "version": "0.0.1",
   "description": "This is a group project for COMP 229 submitted by group 2",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "build": "your open its built (doesn't do anything, just needed for the cloud)",
     "test": "echo \"Error: no test specified\" && exit 1"
